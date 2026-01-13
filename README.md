@@ -17,7 +17,7 @@ claude-skills/
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-skills.git
+git clone https://github.com/santashen/claude-skills.git
 cd claude-skills
 ```
 
